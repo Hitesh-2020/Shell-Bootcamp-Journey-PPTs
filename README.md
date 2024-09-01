@@ -1,4 +1,4 @@
-Shell Bootcamp 2024 Journey PPTs - Soft Skills and Technical Foundation
+# Shell Bootcamp 2024 Journey PPTs - Soft Skills and Technical Foundation
 
 Name: Hitesh Hitesh
 
